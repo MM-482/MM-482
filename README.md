@@ -4,7 +4,7 @@ I’m building practical tools that make automotive systems easier to explore an
 
 My current project is **Sonata Engine Explorer**: an Android app that connects an interactive engine illustration with component references, service information, tools, and parts research. It started with my 2015 Sonata Limited 2.4L and is growing into a project others can help improve.
 
-I care about clear explanations, useful detail, a clean interface, and an app that works comfortably on phones and foldables. I’m developing it with AI assistance and preparing the original application code for an MIT-licensed public release.
+I care about clear explanations, useful detail, a clean interface, and an app that works comfortably on phones and foldables. I’m developing it with AI assistance, and the original application code is available under MIT.
 
 ## What I’m working on
 
